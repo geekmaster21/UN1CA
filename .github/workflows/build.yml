@@ -1,5 +1,5 @@
 name: Build
-
+runs-on: self-hosted
 on:
   workflow_dispatch:
   pull_request:
